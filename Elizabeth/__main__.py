@@ -39,21 +39,21 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`Hi..Welcome` [🦋](https://telegra.ph/file/debaabe44781f92783315.jpg)
-`I'm`  єlízαвєth
+`Hi..Welcome` [💮](https://telegra.ph/file/42a6513d80a3bda075404.jpg)
+`I'm`  Elisa
 `I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
 """
 
-buttons = [[InlineKeyboardButton(text=" HELP AND COMMANDS ❓",
+buttons = [[InlineKeyboardButton(text=" HELP AND COMMANDS ❔",
                                   callback_data="help_back"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
-                                  url="t.me/Elizabeth_TgBot?startgroup=true"),
+                                  url="t.me/ElizaRoBot?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
-                                  url="https://t.me/MR_SHRLOCK/49"),
+                                  url="https://t.me/Tera_Baap_Villain_XD"),
              InlineKeyboardButton(text="SUPPORT🌳",
                                   url="https://t.me/joinchat/oxSPzt02LkgxOTY9"),
 ]]
@@ -63,7 +63,7 @@ buttons += [[InlineKeyboardButton(text="🎀 CLOSE THE MENU 🎀",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` єlízαвєth[🦋](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
+`Hi.. I'm` Elisa[💮](https://telegra.ph/file/3372747d991283377fccf.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
